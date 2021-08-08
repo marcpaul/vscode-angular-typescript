@@ -3,6 +3,11 @@
     "displayName": "angular-typescript",
     "description": "",
     "version": "0.0.1",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-angular-typescript.git"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },

@@ -1,0 +1,22 @@
+{
+    "name": "angular-typescript",
+    "displayName": "angular-typescript",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "alexiv.vscode-angular2-files",
+        "angular.ng-template",
+        "pivotal.vscode-manifest-yaml",
+        "stringham.move-ts",
+        "william-voyek.vscode-nginx",
+        "mcastany.saml-extension",
+        "rbbit.typescript-hero",
+        "dskwrk.vscode-generate-getter-setter"
+    ]
+}

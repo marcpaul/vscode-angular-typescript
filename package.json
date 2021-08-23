@@ -19,12 +19,10 @@
         "angular.ng-template",
         "pivotal.vscode-manifest-yaml",
         "stringham.move-ts",
-        "william-voyek.vscode-nginx",
         "mcastany.saml-extension",
         "rbbit.typescript-hero",
         "dskwrk.vscode-generate-getter-setter",
         "editorconfig.editorconfig",
-        "mikestead.dotenv",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "stylelint.vscode-stylelint"

@@ -18,14 +18,7 @@
     "extensionPack": [
         "alexiv.vscode-angular2-files",
         "angular.ng-template",
-        "pivotal.vscode-manifest-yaml",
         "stringham.move-ts",
-        "mcastany.saml-extension",
-        "rbbit.typescript-hero",
-        "dskwrk.vscode-generate-getter-setter",
-        "editorconfig.editorconfig",
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "stylelint.vscode-stylelint"
+        "mcastany.saml-extension"
     ]
 }

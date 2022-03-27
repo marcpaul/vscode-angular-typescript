@@ -18,7 +18,7 @@
     "extensionPack": [
         "alexiv.vscode-angular2-files",
         "angular.ng-template",
-        "stringham.move-ts",
-        "mcastany.saml-extension"
+        "mcastany.saml-extension",
+        "stringham.move-ts"
     ]
 }
